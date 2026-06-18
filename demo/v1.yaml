@@ -1,0 +1,10 @@
+apiVersion: harness.io/v1
+kind: Component
+type: service
+identifier: accesscontrol
+name: access-control
+owner: unknown
+orgIdentifier: default
+projectIdentifier: testrks
+spec:
+  lifecycle: unknown
